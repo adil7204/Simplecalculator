@@ -1,0 +1,6 @@
+public void string main{
+	int a = 10;
+	float b = 20;
+	sum = a + b;
+	system.out.println("sum of the two number is %f",sum);
+}
